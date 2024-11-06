@@ -1,2 +1,2 @@
 #adding cleaning code
-print('This is cool!!!')
+print('This is cool!')
